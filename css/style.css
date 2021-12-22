@@ -39,7 +39,7 @@ body{
     font-weight: 600;
     font-size: 20px;
     line-height: 30px;
-    color: #000000;
+    color: #000;
 }
 
 .big-portion{
@@ -71,8 +71,8 @@ body{
     font-size: 13px;
     line-height: 19px;
     color: #8d8d8d;
-
 }
+
 .account-link{
     text-decoration: none;
     font-size: 13px;
@@ -83,7 +83,7 @@ body{
     font-weight: 500;
     font-size: 55px;
     line-height: 82px;
-    color: #000000;
+    color: #000;
     margin-bottom: 42px;
 }
 
